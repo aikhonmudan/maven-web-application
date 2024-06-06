@@ -102,14 +102,14 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://54.166.55.217:8081/repository/elec-pipe-proj-snapshot/</url>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
+	      <url>http://54.166.55.217:8081/repository/elec-pipe-proj-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>Elecpipeline-web-app</finalName>
 		
 		<plugins>
 			<plugin>
